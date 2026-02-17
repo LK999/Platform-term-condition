@@ -1,0 +1,35 @@
+{
+  "service_name": "배달의민족",
+  "service_name_en": "Baemin",
+  "operator": "주식회사 우아한형제들",
+  "collected_at": "2026-02-17",
+  "documents": [
+    {
+      "type": "terms_of_service",
+      "title": "배달의민족 우리가게마케팅센터 이용약관",
+      "url": "https://img.woowahan.com/www/biz/rule/agreement.html",
+      "file": "terms_of_service.md",
+      "collected_at": "2026-02-17",
+      "effective_date": "2015-10-13"
+    },
+    {
+      "type": "privacy_policy",
+      "title": "배달의민족 개인정보처리방침",
+      "url": "https://www.woowahan.com/en",
+      "file": "privacy_policy.md",
+      "collected_at": "2026-02-17",
+      "note": "직접 크롤링 제한"
+    },
+    {
+      "type": "third_party_sharing",
+      "title": "배달의민족 개인정보 제3자 제공 관련 조항",
+      "file": "third_party_sharing.md",
+      "collected_at": "2026-02-17"
+    }
+  ],
+  "related_urls": [
+    "https://www.woowa-partner.co.kr/member/agree.jsp",
+    "https://directfarm-seller-admin.baemin.com/terms/history?type=seller",
+    "https://directfarm-seller-admin.baemin.com/terms/history?type=ECommerce"
+  ]
+}

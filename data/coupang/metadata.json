@@ -1,0 +1,37 @@
+{
+  "service_name": "쿠팡",
+  "service_name_en": "Coupang",
+  "collected_at": "2026-02-17",
+  "note": "SPA 렌더링으로 직접 크롤링 제한, 웹 검색 결과 기반으로 정리",
+  "documents": [
+    {
+      "type": "terms_of_service",
+      "title": "쿠팡 이용약관",
+      "url": "https://www.coupang.com/np/policies/terms-of-use",
+      "file": "terms_of_service.md",
+      "collected_at": "2026-02-17",
+      "note": "직접 크롤링 불가"
+    },
+    {
+      "type": "privacy_policy",
+      "title": "쿠팡 개인정보처리방침 V.7.0",
+      "url": "https://privacy.coupang.com/ko/center/coupang/coupang-v7-0/",
+      "file": "privacy_policy.md",
+      "collected_at": "2026-02-17",
+      "note": "직접 크롤링 불가"
+    },
+    {
+      "type": "third_party_sharing",
+      "title": "쿠팡 개인정보 제3자 제공 관련 조항",
+      "url": "https://privacy.coupang.com/ko/center/coupang/",
+      "file": "third_party_sharing.md",
+      "collected_at": "2026-02-17"
+    },
+    {
+      "type": "seller_privacy_policy",
+      "title": "쿠팡 판매자 개인정보처리방침",
+      "url": "https://privacy.coupang.com/ko/land/seller/",
+      "note": "직접 크롤링 불가, 별도 수집 필요"
+    }
+  ]
+}

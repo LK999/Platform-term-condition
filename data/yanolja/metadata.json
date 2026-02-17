@@ -1,0 +1,31 @@
+{
+  "service_name": "야놀자",
+  "service_name_en": "Yanolja (NOL)",
+  "operator": "주식회사 놀유니버스",
+  "collected_at": "2026-02-17",
+  "documents": [
+    {
+      "type": "terms_of_service",
+      "title": "야놀자(NOL) 이용약관",
+      "url": "https://nol.yanolja.com/policy/service",
+      "file": "terms_of_service.md",
+      "collected_at": "2026-02-17",
+      "effective_date": "2025-08-05",
+      "status": "CRAWLED"
+    },
+    {
+      "type": "privacy_policy",
+      "title": "야놀자(NOL) 개인정보처리방침",
+      "url": "https://policy.yanolja.com/?t=privacy",
+      "file": "privacy_policy.md",
+      "collected_at": "2026-02-17",
+      "status": "URL_ONLY"
+    }
+  ],
+  "related_urls": {
+    "yanolja_biz_privacy": "https://business.yanolja.com/mo/kr/privacy",
+    "yanolja_lab_privacy": "https://www.yanoljalab.com/privacy_footer.php",
+    "yanolja_fnb_privacy": "https://www.yanoljafnbsolution.com/privacy",
+    "yanolja_biz_notice": "https://business.yanolja.com/mo/kr/notice/view?boardType=NOTICE&boardNum=529"
+  }
+}

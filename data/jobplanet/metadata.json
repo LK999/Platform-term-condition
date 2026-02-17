@@ -1,0 +1,38 @@
+{
+  "service_name": "잡플래닛",
+  "service_name_en": "Jobplanet",
+  "operator": "주식회사 브레인커머스 (잡플래닛 유한회사)",
+  "collected_at": "2026-02-17",
+  "note": "직접 크롤링이 제한되어 웹 검색 결과 기반으로 정리",
+  "documents": [
+    {
+      "type": "terms_of_service",
+      "title": "잡플래닛 이용약관",
+      "url": "https://www.jobplanet.co.kr/welcome/terms",
+      "file": "terms_of_service.md",
+      "collected_at": "2026-02-17",
+      "note": "직접 크롤링 불가"
+    },
+    {
+      "type": "privacy_policy",
+      "title": "잡플래닛 개인정보처리방침",
+      "url": "https://www.jobplanet.co.kr/welcome/privacy",
+      "file": "privacy_policy.md",
+      "collected_at": "2026-02-17",
+      "note": "직접 크롤링 불가"
+    },
+    {
+      "type": "third_party_sharing",
+      "title": "잡플래닛 개인정보 제3자 제공 관련 조항",
+      "url": "https://www.jobplanet.co.kr/welcome/privacy",
+      "file": "third_party_sharing.md",
+      "collected_at": "2026-02-17"
+    },
+    {
+      "type": "recruitment_policy",
+      "title": "잡플래닛 채용서비스 약관",
+      "url": "https://www.jobplanet.co.kr/welcome/recruitment_policy",
+      "note": "직접 크롤링 불가, 별도 수집 필요"
+    }
+  ]
+}

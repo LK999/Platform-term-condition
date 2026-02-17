@@ -1,0 +1,34 @@
+{
+  "service_name": "당근",
+  "service_name_en": "Danggeun (Karrot)",
+  "collected_at": "2026-02-17",
+  "documents": [
+    {
+      "type": "terms_of_service",
+      "title": "당근 상품판매 서비스 이용약관",
+      "url": "https://commerce.kr.karrotmarket.com/terms/seller_commerce_service_agreement",
+      "file": "terms_of_service.md",
+      "collected_at": "2026-02-17",
+      "effective_date": "2025-07-22"
+    },
+    {
+      "type": "privacy_policy",
+      "title": "당근 개인정보처리방침",
+      "url": "https://privacy.daangn.com/",
+      "file": "privacy_policy.md",
+      "collected_at": "2026-02-17",
+      "effective_date": "2025-07-01"
+    },
+    {
+      "type": "third_party_sharing",
+      "title": "당근 개인정보 제3자 제공 관련 조항",
+      "url": "https://privacy.daangn.com/",
+      "file": "third_party_sharing.md",
+      "collected_at": "2026-02-17",
+      "related_urls": [
+        "https://terms.daangnpay.com/agree/daangnpay",
+        "https://commerce.kr.karrotmarket.com/terms/seller_commerce_service_agreement"
+      ]
+    }
+  ]
+}

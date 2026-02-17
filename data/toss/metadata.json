@@ -1,0 +1,17 @@
+{
+  "service_name": "토스",
+  "service_name_en": "Toss",
+  "operator": "주식회사 비바리퍼블리카",
+  "collected_at": "2026-02-17",
+  "status": "URL_ONLY",
+  "note": "SPA 렌더링으로 직접 크롤링 불가. URL 및 웹 검색 결과 요약만 저장.",
+  "urls": {
+    "toss_privacy": "https://toss.im/privacy",
+    "tosspayments_privacy": "https://pages.tosspayments.com/terms/homepage/privacy/policy/",
+    "tosspayments_3rd_party": "https://pages.tosspayments.com/terms/privacy/consent2/",
+    "tossbank_privacy": "https://www.tossbank.com/customer/information/privacy/privacy-policy",
+    "tossplace_3rd_party": "https://pages.tossplace.com/policies/625/421",
+    "tossplace_privacy": "https://pages.tossplace.com/policies/625/318",
+    "tosspayments_pg_3rd_party": "https://pages.tosspayments.com/terms/pg-mob/privacy3/"
+  }
+}
